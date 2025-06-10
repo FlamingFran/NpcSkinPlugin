@@ -1,5 +1,5 @@
 name: NpcSkinPlugin
 version: 1.0
-main: com.flamingfran.npcskin.Main
+main: com.tunombre.npcskin.NpcSkinPlugin
 api-version: 1.16
-depend: [Citizens, ProtocolLib]
+depend: [Citizens]
